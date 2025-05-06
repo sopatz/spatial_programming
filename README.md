@@ -7,7 +7,8 @@ Term project and assignments for the Spatial Programming course at Kent State Un
 * Tools used: ArcPy Spatial Analyst Module (arcpy.sa)
   - Fill, Flow Direction, Flow Accumulation, Con, Reclassify, Stream Link, Watershed, Raster to Polygon
 
-### Assignments Topics
+### Assignment Topics
+* Python Language Fundamentals
 * Geoprocessing in ArcGIS Using Python
 * Exploring Spatial Data and Debugging
 * Manipulating Spatial and Tabular Data
